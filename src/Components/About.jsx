@@ -6,7 +6,9 @@ const About = () => {
     <div
       style={{ background: `url(${bg})`, backgroundSize: "cover" }}
       className="h-screen"
-    ></div>
+    >
+      <h2>About</h2>
+    </div>
   );
 };
 
